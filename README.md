@@ -1,3 +1,6 @@
+Visual Studio 2022
+Application: WPF (.NET Framework 4.7.2)
+
 This is an example code of making a WPF appliaction behave like single instance.
 If user run exe once and or run full trust from uwp application (e.g. desktop bridge scenario) once
 existing running exe will always work for multiple exe running or full trust launch.
