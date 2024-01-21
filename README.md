@@ -3,6 +3,7 @@ If user run exe once and or run full trust from uwp application (e.g. desktop br
 existing running exe will always work for multiple exe running or full trust launch.
 
 * Here wpf will have a system tray.
+* Quick Panel window will be shown in the bottom right corner of the window just above the tray icon.
 * User can click tray icon to show/hide quick panel view just above the tray icon.
 * Maintaining a Single Instance wpf exe.
 * Quick Panel window will not have any title bar.
